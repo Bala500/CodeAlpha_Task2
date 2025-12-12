@@ -5,4 +5,11 @@ This project emphasizes clean, modular design and reinforces practical use of in
 # Key Features
  - Interactive Command - Line Interface : A menu-driven CLI that enables intuitive navigation of banking functions.
  - Core Java Fundamentals - User Input Handling Implements Java’s Scanner class for robust input collection and validation.
- - 
+ - Basic Banking Operations - Deposit funds,Withdraw funds,Exit the application.
+
+
+
+
+
+
+
